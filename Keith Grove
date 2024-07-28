@@ -1,0 +1,11 @@
+# Example Python Code
+print("Hello, world!")
+
+# Simple addition
+a = 10
+b = 5
+print("Sum of a and b is:", a + b)
+
+# Loop to print numbers
+for i in range(5):
+    print(i)
